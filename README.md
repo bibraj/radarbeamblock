@@ -1,5 +1,7 @@
 # radarbeamblock
 This is an UI based tool for calculation of beam blockage for new sites based on wradlib open source software https://github.com/wradlib/wradlib/
+This UI was developed by Bibraj Raj to support in preliminary analysis of an site for new radar installation. 
+The intent of the software is to help the users with no prior knowledge in coding to utlize the beam blockage functionality of wradlib
 
 The software and DEM file can be downloaded from the Link https://mega.nz/file/SI1SiKzb#1Qfbc-AaRLfMkbcCbGHCfAy5IXnGppyq6V-cenmpJdI
 
