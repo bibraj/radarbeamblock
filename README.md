@@ -15,7 +15,7 @@ DEM File:
 3) To change the DEM file with a higher resolution one, rename the higher resolution file as 
 "INDIA.tif" and replace the existing one in the folder.
 4) The software takes only the file named "INDIA.tif" for processing
-5) The software was primarily developed for generation of beam blocakage plots in India. It can be used for other places as well but the DEM file should be named as INDIA.TIF
+5) The software was primarily developed for generation of beam blocakage plots in India. It can be used for other places as well but the DEM file should be named as INDIA.tif
    
 User Instructions:
 1) Click on the beamer.exe file in the Folder
