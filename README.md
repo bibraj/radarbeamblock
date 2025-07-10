@@ -11,7 +11,9 @@ Space:
  DEM File: 2.3GB(250m Resolution) for India
  
 Installation:
+
 1)Copy the "beamer.rar" file into your PC and extract it to a Folder
+
 DEM File:
 1) The DEM file present in the Folder covers India and is named as "INDIA.tif"
 2) The Resolution of the DEM file is 250m
