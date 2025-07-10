@@ -1,12 +1,15 @@
 # radarbeamblock
 This is an UI based tool for calculation of beam blockage for new sites based on wradlib open source software https://github.com/wradlib/wradlib/
 
+The software can be downloaded from the Link https://mega.nz/file/SI1SiKzb#1Qfbc-AaRLfMkbcCbGHCfAy5IXnGppyq6V-cenmpJdI
+
 Requirements:
 OS: Windows 8, 10
 RAM:Minimum 4 GB
 Space: 
  Software:200MB
  DEM File: 2.3GB(250m Resolution) for India
+ 
 Installation:
 1)Copy the "beamer.rar" file into your PC and extract it to a Folder
 DEM File:
